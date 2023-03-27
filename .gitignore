@@ -1,0 +1,5 @@
+keyconfig.py
+test
+__pycache__/*
+*.pt
+*.png
