@@ -3,3 +3,4 @@ test
 __pycache__/*
 *.pt
 *.png
+test.ipynb
